@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxime Frémeaux as @unshiny99
 - 👀 I’m interested in everything about IT
-- 🌱 I’m currently learning Node.js and advanced databases concepts
+- 🌱 I’m currently learning Flutter and performing Laravel
 - 📫 How to reach me : maxime.fremeaux2@gmail.com
 
 <!---
